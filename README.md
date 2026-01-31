@@ -1,1 +1,3 @@
-# previs-engine
+# Previs Engine
+
+Turning Words into Visuals
